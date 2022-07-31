@@ -4,6 +4,8 @@ This repo we will describes how to configure an Internet Information Services (I
 
 # In this case, you need to follow these things:
 
+Make sure to follow every step one by one otherwise you will got an error. So Be carefully apply all of the instruction which is provided on this documentation then you will be able to successfully deploy Dot NET Application to IIS Server. 
+
 * [Add A record](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Add-A-record)
 
 * [Download All Kind of Required Tools](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Download-Tools)
@@ -21,3 +23,8 @@ This repo we will describes how to configure an Internet Information Services (I
 * [Install SSL Certificate on IIS Server](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Install-SSL-Certificate-on-IIS-Server)
 
 * [Browse Your Application](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Browse-Your-Application)
+
+
+IF you find any kind of issue on this documentation I'm always there to solve this. You just simply leave a mail `azmin@exceldd.com` 
+
+# Thanks
