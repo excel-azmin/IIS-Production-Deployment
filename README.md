@@ -31,6 +31,12 @@ Make sure to follow every step one by one otherwise you will got an error. So Be
 * [Site Not Found Error](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Site-Not-Found)
 * [Web Config Error](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Configure-Error)
 
+# Site Name Update
+
+* Update Your Existing Domain, Follow the instruction from [here](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Configure-Host-Name)
+* Install SSL Certificate for New Domain, Follow the instruction from [here](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Install-SSL-Certificate-on-IIS-Server)
+* Remove HTTP Binding & Run the Application, Follow the instruction from [here](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Browse-Your-Application#remove-http-binding)
+
 
 
 
