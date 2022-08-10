@@ -29,6 +29,7 @@ Make sure to follow every step one by one otherwise you will got an error. So Be
 
 * [Development Mode Error](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Development-Mode)
 * [Site Not Found Error](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Site-Not-Found)
+* [Web Config Error/Edit Issue](https://github.com/excel-azmin/IIS-Production-Deployment/wiki/Configure-Error)
 
 # Site Name Update
 
